@@ -16,10 +16,6 @@ import tensorflow as tf
 
 ds = tf.data.Dataset.from_tensor_slices(["Bengaluru is the capital city of Karnataka"])
 
-ds
-
-!pip install sentencepiece
-
 import sentencepiece
 
 sentencepiece.SentencePieceTrainer.train(
