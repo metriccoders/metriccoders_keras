@@ -5,8 +5,7 @@ This repository contains Python notebooks and programs focused on Keras library.
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Contributing](#contributing)
-3. [License](#license)
+2. [License](#license)
 
 ## Installation
 To run these notebooks and python programs, you need to have Python and some libraries installed on your machine. Here's how you can do it:
