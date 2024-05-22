@@ -1,7 +1,7 @@
 # Metric Coders Keras Notebooks and Python Programs
 
 ## Description
-This repository contains Python notebooks and programs focused on Keras library. It is designed to provide hands-on experience and demonstrate the practical applications of various Machine Learning algorithms.
+This repository contains Python notebooks and programs focused on Keras library. It is designed to provide hands-on experience and demonstrate the practical applications of various Machine Learning algorithms. Also, it contains various notebooks to **fine tune** **Large Language models (LLMs)** with custom data.
 
 ## Table of Contents
 1. [Installation](#installation)
